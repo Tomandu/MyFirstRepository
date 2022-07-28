@@ -13,13 +13,13 @@
 * Что такое GitHub
 * Что такое Markdown
 
-# [Что такое осень](https://www.google.com/search?q=xnj+nfrjt+jctym+ntrcn&oq=xnj+nfrjt+jctym+ntrcn&aqs=chrome..69i57j0i1i10i512.7784j0j7&sourceid=chrome&ie=UTF-8)
+# **[Что такое осень**](https://www.google.com/search?q=xnj+nfrjt+jctym+ntrcn&oq=xnj+nfrjt+jctym+ntrcn&aqs=chrome..69i57j0i1i10i512.7784j0j7&sourceid=chrome&ie=UTF-8)
 Что такое осень? Это небо,
 Плачущее небо под ногами.
 В лужах разлетаются птицы с облаками,
 Осень, я давно с тобою не был.
 
-##Припев:
+## Припев:
 
 Осень, в небе жгут корабли.
 Осень, мне бы прочь от земли.
